@@ -1,0 +1,8 @@
+*~
+*\#
+*.o
+*.dep
+
+settings/
+Flash/
+
